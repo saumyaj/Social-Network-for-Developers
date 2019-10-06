@@ -1,4 +1,4 @@
-# devconnector
+# Social Network for Developers
 
 This is a fairly basic webapp using MERN(Mongo, Express, React, Node) stack. After cloning the repository you can run npm install in the root directory as well as the client directory. The client directory contains the React app and has its own dependencies.
 
